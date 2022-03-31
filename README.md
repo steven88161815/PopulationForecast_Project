@@ -1,1 +1,3 @@
 # PopulationForecast_Project
+
+碩一時與夥伴們一起研究的一個人口預測論文，有寫成paper，將自己負責的那一部份分享給大家(使用xgboost建模)
